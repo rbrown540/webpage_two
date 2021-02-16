@@ -1,0 +1,54 @@
+/*
+
+
+*/
+p, ul, ol, h1, h2, h3, table
+{
+    color: white;
+}
+form
+{
+    width: 300px;
+    margin: 0 auto;
+    padding: 1em;
+}
+table
+{
+    height: 300px;
+}
+body
+{
+    background-image: url("starwarsWarpSpeed.jpeg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* CLASS= */
+.for_form_input
+{
+    display: block;
+    width: 300px;
+    text-align: left;
+    padding-top: 10px;
+    height: 50px;
+}
+
+/* ID= */
+#table_left_text
+{
+    color: fuchsia;
+}
+#table_right_text
+{
+    color: yellowgreen;
+}
+#potato
+{
+    color: deeppink;
+}
+#disclaimer_text
+{
+    color: lightgrey;
+}
+
